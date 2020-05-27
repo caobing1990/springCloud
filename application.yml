@@ -1,1 +1,2 @@
-application  yml
+config:
+  info: locahost application  yml
